@@ -284,24 +284,6 @@ It's user-friendly, available on all platforms and has a cloud sync system. It c
 
 My flashcard database in Anki format: https://ankiweb.net/shared/info/25173560 (thanks [@xiewenya](https://github.com/xiewenya))
 
-### 3. Review, review, review
-
-I keep a set of cheat sheets on ASCII, OSI stack, Big-O notations, and more. I study them when I have some spare time.
-
-Take a break from programming problems for a half hour and go through your flashcards.
-
-### 4. Focus
-
-There are a lot of distractions that can take up valuable time. Focus and concentration are hard.
-
-## What you won't see covered
-
-These are prevalent technologies but not part of this study plan:
-
-- SQL
-- Javascript
-- HTML, CSS, and other front-end technologies
-
 ## The Daily Plan
 
 Some subjects take one day, and some will take multiple days. Some are just learning with nothing to implement.
@@ -312,7 +294,6 @@ Each day I take one subject from the list below, watch videos about that subject
 - C++ - using built-in types, like STL's std::list for a linked list
 - Python - using built-in types (to keep practicing Python)
 - and write tests to ensure I'm doing it right, sometimes just using simple assert() statements
-- You may do Java or something else, this is just my thing.
 
 You don't need all these. You need only [one language for the interview](#pick-one-language-for-the-interview).
 
@@ -324,7 +305,7 @@ Why code in all of these?
 I may not have time to do all of these for every subject, but I'll try.
 
 You can see my code here:
- - [C] (https://github.com/jwasham/practice-c)
+ - [ ] (https://github.com/jwasham/practice-c)
  - [C++] (https://github.com/jwasham/practice-cpp)
  - [Python] (https://github.com/jwasham/practice-python)
 
@@ -1234,8 +1215,6 @@ Supplemental:
 
 - [ ] [Programming Interviews Exposed: Secrets to Landing Your Next Job, 2nd Edition](http://www.wiley.com/WileyCDA/WileyTitle/productCd-047012167X.html)
     - answers in C, C++ and Java
-- [ ] [Cracking the Coding Interview, 6th Edition](http://www.amazon.com/Cracking-Coding-Interview-6th-Programming/dp/0984782850/)
-    - answers in Java
 
 See [Book List above](#book-list)
 
@@ -1310,14 +1289,6 @@ Have a story, not just data, about something you accomplished.
 - What are you working on?
 - What do you like about it?
 - What is the work life like?
-
-## Once You've Got The Job
-
-Congratulations!
-
-Keep learning.
-
-You're never really done.
 
 ---
 
