@@ -137,6 +137,7 @@
 You can use a language you are comfortable in to do the coding part of the interview, but for large companies, these are solid choices:
 
 - C
+- C++
 - Python
 
 
